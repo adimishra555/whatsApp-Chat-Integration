@@ -1,4 +1,4 @@
-# signals.py
+
 import json
 import requests
 from django.db.models.signals import post_save

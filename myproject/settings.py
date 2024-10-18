@@ -127,6 +127,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 
-
 INFOBIP_API_KEY = os.getenv('932c1b30462c3f6ed0fed9dafca533d0-a38ec055-a967-4487-8afa-00894222bcbe')
 INFOBIP_BASE_URL = os.getenv('6gkkp8.api.infobip.com', 'https://6gkkp8.api.infobip.com')

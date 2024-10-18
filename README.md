@@ -2,4 +2,5 @@
 2. I used signal to send message user or product is uploaded.
 3. For API_key and Base_URL, create app and developer tools API section in https://www.infobip.com/
 4. Also we generate integrate urls and key from https://developers.meta.com/ to access it.
-6. I integrate this api endpoints for Testing purpose not production. 
+6. I integrate this api endpoints for Testing purpose not production.
+   
